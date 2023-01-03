@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @feresqui
 - 👀 I’m interested in programming, languages, education, accounting, business management.
-- 🌱 I’m currently learning JS, TS, ReactJS, ReactNative, Angular, Vue, MySQL, Firebase, NodeJS, Deno
-- 💞️ I’m looking to collaborate on Web development
+- 🌱 I’m currently learning JS, MySQL, Kotlin, TF. 
+- 💞️ I’m looking to collaborate on Web and App development
 - 📫 How to reach me feresqui@gmail.com feresqui@sistemasepsilon.com fesquivel@filouna.edu.py
 
 <!---
